@@ -4,7 +4,6 @@
 ##then save the result. The result can be used for the subsequent accessing as long as the original 
 ##matrix has not changed.
 
-
 ## This function creates a special "matrix" object that can cache its inverse.
 ## It returns a list including four functions: set, get, setinverse, getinverse
 
